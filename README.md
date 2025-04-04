@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/960848925856319080/A63487B5EB8430F450568FCEC2064D327F59576B/?imw=512&imh=506&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateohubert2&label=Profile%20views&color=0e75b6&style=flat" alt="mateohubert2" /> </p>
+- 🔭 I’m currently working on [ChimeraShift](https://github.com/mateohubert2/ChimeraShift)
 
 - 🌱 I’m currently learning **Pentesting, C++, Shell, Networks**
 
